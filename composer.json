@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Fabiancloin\\FakeStore\\": "src/"
+            "FakeStore\\": "src/"
         }
     },
     "require-dev": {
